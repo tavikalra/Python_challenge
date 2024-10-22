@@ -1,0 +1,9 @@
+Election Results
+ ................
+ Total Votes: 369711
+ ................
+ Charles Caper Stockham 23.049% (85213)
+ Diana DeGette 73.812% (272892)
+ Raymond Anthony Doanne 0.000% (0)
+ ................
+ Winner:['Diana DeGette']
